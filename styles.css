@@ -1,0 +1,58 @@
+body {
+  background-color: #fcf5e5;
+}
+
+h1 {
+  font-size: 75px;
+}
+
+h2 {
+  font-size: 45px;
+}
+
+h3,
+h4 {
+  font-size: 35px;
+}
+
+p {
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+img {
+  height: 500px;
+}
+
+a {
+  color: blue;
+}
+
+a:hover {
+  color: red;
+}
+
+#commentLabel {
+  font-weight: bold;
+}
+
+#commentField {
+  height: 250px;
+  width: 500px;
+  margin-bottom: 15px;
+}
+
+#nameEmail {
+  width: 243px;
+  margin-bottom: 100px;
+}
+
+#socialMedia {
+  text-align: center;
+}
+
+#socialMediaIcon {
+  height: 100px;
+  width: 100px;
+  margin: 15px;
+}
